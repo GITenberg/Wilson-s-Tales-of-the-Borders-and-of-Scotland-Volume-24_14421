@@ -1,0 +1,34 @@
+_repo: Wilson-s-Tales-of-the-Borders-and-of-Scotland-Volume-24_14421
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Wilson, John Mackay
+    birthdate: 1804
+    deathdate: 1835
+    gutenberg_agent_id: '32367'
+    url: http://www.gutenberg.org/2009/agents/32367
+    wikipedia: http://en.wikipedia.org/wiki/John_Mackay_Wilson
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Leighton, Alexander
+    birthdate: 1800
+    deathdate: 1874
+    gutenberg_agent_id: '32366'
+    url: http://www.gutenberg.org/2009/agents/32366
+description: ''
+gutenberg_issued: '2004-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14421'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scottish Borders (Scotland) -- Fiction'
+- !lcc 'PR'
+title: Wilson's Tales of the Borders and of Scotland, Volume 24
+url: http://www.gutenberg.org/ebooks/14421
