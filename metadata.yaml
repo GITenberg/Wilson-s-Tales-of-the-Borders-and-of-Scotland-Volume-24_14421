@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '32366'
     url: http://www.gutenberg.org/2009/agents/32366
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14421#Wilson-s-Tales-of-the-Borders-and-of-Scotland-Volume-24
 gutenberg_issued: '2004-12-22'
 gutenberg_type: Text
 identifiers:
